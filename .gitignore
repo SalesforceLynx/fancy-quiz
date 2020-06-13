@@ -12,6 +12,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# Doc files
+manual-log of fancy-quiz.docx*
+
 # Editor directories and files
 .idea
 .vscode
