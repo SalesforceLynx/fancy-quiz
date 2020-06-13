@@ -9,7 +9,7 @@ I decided to add some enhancements that was missed in the very first tutorial. F
 If you want to see what my version of original code was doing. You can follow the link https://pure-beyond-10179.herokuapp.com/ which I set up on heroku.
 
 # Demo 2 Fancy-Quiz
-There's another heroku app that I set up on heroku which have slightly more features in it. For my practice and learning.
+There's another heroku app that I set up on heroku which have slightly more features in it. For my practice and learning. You can find it here https://nameless-escarpment-39744.herokuapp.com/
 
 1. Added a previous button to go back to the previous question.
 2. Also added a check for letting the user know the start and end of questions by disabling the next & previous buttons.
