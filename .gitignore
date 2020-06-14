@@ -15,6 +15,9 @@ pnpm-debug.log*
 # Doc files
 manual-log of fancy-quiz.docx*
 
+# Workspace
+fancy-quiz-workspace.code-workspace
+
 # Editor directories and files
 .idea
 .vscode
